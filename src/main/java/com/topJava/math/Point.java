@@ -9,12 +9,12 @@ public class Point {
         this.y = y;
     }
 
-    public double distance(Point point2) {
-        if (this == null || point2 == null)
+    public double distance(Point point) {
+        if (this == null || point == null)
             throw new RuntimeException("Points are not initialized");
 
-        double dx = this.x - point2.x;
-        double dy = this.y - point2.y;
+        double dx = this.x - point.x;
+        double dy = this.y - point.y;
 
         return Math.sqrt(dx*dx +  dy*dy);
     }
