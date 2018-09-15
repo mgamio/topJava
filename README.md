@@ -11,3 +11,5 @@
 [4. Reverse a linked list](https://github.com/mgamio/topJava/blob/master/src/main/java/com/topJava/list/LinkedList.java)
 
 [5. Remove duplicates from a list](https://github.com/mgamio/topJava/blob/master/src/main/java/com/topJava/list/ListUtils.java)
+
+[6. Returns a list without duplicates and ordered]()
