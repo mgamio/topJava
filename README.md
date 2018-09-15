@@ -8,4 +8,4 @@
 
 [3. Compare application version numbers](https://github.com/mgamio/topJava/blob/master/src/main/java/com/topJava/strings/StringUtils.java)
 
-[4. Reverse a linked list]()
+[4. Reverse a linked list](https://github.com/mgamio/topJava/blob/master/src/main/java/com/topJava/list/LinkedList.java)
