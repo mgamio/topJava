@@ -12,4 +12,4 @@
 
 [5. Remove duplicates from a list](https://github.com/mgamio/topJava/blob/master/src/main/java/com/topJava/list/ListUtils.java)
 
-[6. Returns a list without duplicates and ordered]()
+[6. Remove duplicates from a list and return it ordered]()
