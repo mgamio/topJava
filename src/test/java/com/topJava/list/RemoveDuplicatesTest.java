@@ -31,4 +31,18 @@ public class RemoveDuplicatesTest {
         assertTrue(result.get(2).equals("s3"));
     }
 
+    @Test
+    public void when_exists_integers_duplicated_then_should_return_list_without_duplicates() {
+        List<Integer> input = new ArrayList<>();
+        input.add(10);
+        input.add(11);
+        input.add(12);
+        input.add(10);
+        input.add(10);
+        input.add(11);
+        input.add(14);
+        List<Integer> result = ListUtils.removeDuplicates(input);
+        assertEquals(4, result.size());
+    }
+
 }

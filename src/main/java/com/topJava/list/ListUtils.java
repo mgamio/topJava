@@ -1,9 +1,6 @@
 package com.topJava.list;
 
-import java.util.ArrayList;
-import java.util.LinkedHashSet;
-import java.util.List;
-import java.util.Set;
+import java.util.*;
 
 public class ListUtils {
     public static <E> List<E> removeDuplicates(List<E> list) {
