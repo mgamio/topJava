@@ -15,3 +15,5 @@
 [6. Remove duplicates from a list and return it ordered](https://github.com/mgamio/topJava/blob/master/src/main/java/com/topJava/list/ListUtils2.java)
 
 [7. Validate if a number is power of two](https://github.com/mgamio/topJava/blob/master/src/main/java/com/topJava/math/PowerOfN.java)
+
+[8. Validate if a number is power of another number](https://github.com/mgamio/topJava/blob/master/src/main/java/com/topJava/math/Power.java)
