@@ -19,3 +19,6 @@
 [8. Validate if a number is power of another number](https://github.com/mgamio/topJava/blob/master/src/main/java/com/topJava/math/Power.java)
 
 [9. Validate if a string is a palindrome](https://github.com/mgamio/topJava/blob/master/src/main/java/com/topJava/strings/IsPalindrome.java)
+
+[10. Validate a leap year](https://github.com/mgamio/topJava/blob/master/src/main/java/com/topJava/math/IsLeapYear.java)
+
