@@ -5,7 +5,6 @@ import static org.junit.Assert.*;
 import org.junit.Rule;
 import org.junit.Test;
 import org.junit.rules.ExpectedException;
-import org.springframework.boot.context.properties.bind.UnboundConfigurationPropertiesException;
 
 public class PointTest {
 
