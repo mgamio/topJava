@@ -25,3 +25,5 @@
 [11. Checking if a number is prime](https://github.com/mgamio/topJava/blob/master/src/main/java/com/topJava/math/PrimeNumber.java)
 
 [12. Delimiter Matching](https://github.com/mgamio/topJava/blob/master/src/main/java/com/topJava/stack/DelimiterMatching.java)
+
+[13. Bubble Sort algorithm](https://github.com/mgamio/topJava/blob/master/src/main/java/com/topJava/sort/BubbleSorting.java)
