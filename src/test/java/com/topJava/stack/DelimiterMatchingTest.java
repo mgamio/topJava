@@ -20,6 +20,8 @@ public class DelimiterMatchingTest {
     @Test
     public void correct_expressions() {
         assertTrue(delimiterMatching.apply("()"));
+        assertTrue(delimiterMatching.apply("([])"));
+        assertTrue(delimiterMatching.apply("{{([])}}"));
     }
 
 }
