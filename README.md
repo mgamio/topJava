@@ -1,6 +1,6 @@
 # Top Java Challenges: Cracking the code interview
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=mkgv89-21&language=en_GB&marketplace=amazon&region=DE&placement=B086JCK6C4&asins=B086JCK6C4&linkId=c3c6b482d60fc5db633805e151b3d3b7&show_border=true&link_opens_in_new_window=true"></iframe>
+[more on amazon](https://amzn.to/2A4Nn2m)
 
 ## Top Java Interviews coding task
 
@@ -29,3 +29,5 @@
 [12. Delimiter Matching](https://github.com/mgamio/topJava/blob/master/src/main/java/com/topJava/stack/DelimiterMatching.java)
 
 [13. Bubble Sort Algorithm](https://github.com/mgamio/topJava/blob/master/src/main/java/com/topJava/sort/BubbleSorting.java)
+
+[more on amazon](https://amzn.to/2A4Nn2m)
