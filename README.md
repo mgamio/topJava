@@ -28,13 +28,13 @@
 
 [12. Delimiter Matching](https://github.com/mgamio/topJava/blob/master/src/main/java/com/topJava/stack/DelimiterMatching.java)
 
-[13. Binary Search](https://github.com/mgamio/topJava)
+[13. Binary Search](#)
 
-[14. Rotate the matrix by 90 degrees](https://github.com/mgamio/topJava)
+[14. Rotate the matrix by 90 degrees](#)
 
-[15. Queue via Stacks](https://github.com/mgamio/topJava)
+[15. Queue via Stacks](#)
 
-[16. Given an integer N, returns the smallest number](https://github.com/mgamio/topJava)
+[16. Given an integer N, returns the smallest number](#)
 
 [17. Given an integer N, returns its Factorial](#)
 
