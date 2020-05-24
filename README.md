@@ -1,6 +1,6 @@
 # Top Java Challenges: Cracking the code interview
 
-[more on amazon](https://amzn.to/2A4Nn2m)
+[explained in detail on amazon](https://amzn.to/2A4Nn2m)
 
 ## Top Java Interviews coding task
 
@@ -28,6 +28,24 @@
 
 [12. Delimiter Matching](https://github.com/mgamio/topJava/blob/master/src/main/java/com/topJava/stack/DelimiterMatching.java)
 
-[13. Bubble Sort Algorithm](https://github.com/mgamio/topJava/blob/master/src/main/java/com/topJava/sort/BubbleSorting.java)
+13. Binary Search
+14. Rotate the matrix by 90 degrees
+15. Queue via Stacks
+16. Given an integer N, returns the smallest number
+17. Given an integer N, returns its Factorial
+18. Print characters based on rules
+19. Number of products of two consecutive integers
+20. Return the most frequent elements of an array
+21. Assemble Parts in minimum Time
+22. Sum of all even numbers from 1 to a given Integer
+23. Write a Money Class to convert Euro to Dollar
+24. Fill a basket with the most valuable goods under a budget
+25. Find a GTIN in a Binary Tree
+26. Bubble Sort Algorithm
+27. Depth First Search
+28. Breadth First Search
+.
+.
+.
 
-[more on amazon](https://amzn.to/2A4Nn2m)
+[... and much more explained in detail on amazon](https://amzn.to/2A4Nn2m)
