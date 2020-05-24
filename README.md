@@ -1,7 +1,5 @@
 # Top Java Challenges: Cracking the code interview
 
-[explained in detail on amazon](https://amzn.to/2A4Nn2m)
-
 ## Top Java Interviews coding task
 
 [1. Reverse a text](https://github.com/mgamio/topJava/blob/master/src/main/java/com/topJava/strings/StringUtils.java)
