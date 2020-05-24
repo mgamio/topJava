@@ -14,11 +14,11 @@
 
 [5. Remove duplicates from a list](https://github.com/mgamio/topJava/blob/master/src/main/java/com/topJava/list/ListUtils.java)
 
-[6. Remove duplicates from a list and return it ordered](https://github.com/mgamio/topJava/blob/master/src/main/java/com/topJava/list/ListUtils2.java)
+[6. Remove duplicates from a list and return it ordered](https://amzn.to/2A4Nn2m)
 
 [7. Validate if a number is power of two](https://github.com/mgamio/topJava/blob/master/src/main/java/com/topJava/math/PowerOfN.java)
 
-[8. Validate if a number is power of another number](https://github.com/mgamio/topJava/blob/master/src/main/java/com/topJava/math/Power.java)
+[8. Validate if a number is power of another number](https://amzn.to/2A4Nn2m)
 
 [9. Validate if a string is a palindrome](https://github.com/mgamio/topJava/blob/master/src/main/java/com/topJava/strings/IsPalindrome.java)
 
@@ -28,37 +28,37 @@
 
 [12. Delimiter Matching](https://github.com/mgamio/topJava/blob/master/src/main/java/com/topJava/stack/DelimiterMatching.java)
 
-[13. Binary Search](#)
+[13. Binary Search](https://amzn.to/2A4Nn2m)
 
-[14. Rotate the matrix by 90 degrees](#)
+[14. Rotate the matrix by 90 degrees](https://amzn.to/2A4Nn2m)
 
-[15. Queue via Stacks](#)
+[15. Queue via Stacks](https://amzn.to/2A4Nn2m)
 
-[16. Given an integer N, returns the smallest number](#)
+[16. Given an integer N, returns the smallest number](https://amzn.to/2A4Nn2m)
 
-[17. Given an integer N, returns its Factorial](#)
+[17. Given an integer N, returns its Factorial](https://amzn.to/2A4Nn2m)
 
-[18. Print characters based on rules](#)
+[18. Print characters based on rules](https://amzn.to/2A4Nn2m)
 
-[19. Number of products of two consecutive integers](#)
+[19. Number of products of two consecutive integers](https://amzn.to/2A4Nn2m)
 
-[20. Return the most frequent elements of an array](#)
+[20. Return the most frequent elements of an array](https://amzn.to/2A4Nn2m)
 
-[21. Assemble Parts in minimum Time](#)
+[21. Assemble Parts in minimum Time](https://amzn.to/2A4Nn2m)
 
-[22. Sum of all even numbers from 1 to a given Integer](#)
+[22. Sum of all even numbers from 1 to a given Integer](https://amzn.to/2A4Nn2m)
 
-[23. Write a Money Class to convert Euro to Dollar](#)
+[23. Write a Money Class to convert Euro to Dollar](https://amzn.to/2A4Nn2m)
 
-[24. Fill a basket with the most valuable goods under a budget](#)
+[24. Fill a basket with the most valuable goods under a budget](https://amzn.to/2A4Nn2m)
 
-[25. Find a GTIN in a Binary Tree](#)
+[25. Find a GTIN in a Binary Tree](https://amzn.to/2A4Nn2m)
 
-[26. Bubble Sort Algorithm](#)
+[26. Bubble Sort Algorithm](https://amzn.to/2A4Nn2m)
 
-[27. Depth First Search](#)
+[27. Depth First Search](https://amzn.to/2A4Nn2m)
 
-[28. Breadth First Search](#)
+[28. Breadth First Search](https://amzn.to/2A4Nn2m)
 
 .
 .
